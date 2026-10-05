@@ -1,4 +1,4 @@
 .env
-*.db
-__pycache__/
-.venv/
+shiina.db
+.venv
+__pycache__
